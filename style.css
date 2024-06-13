@@ -1,0 +1,32 @@
+body {
+  background: #ff0000;
+}
+
+h2 {
+  width: 50%;
+  margin-left: 150px;
+  padding: 5px;
+}
+
+p {
+  margin-left: 15px;
+  padding: 5px;
+}
+
+img {
+  width: 100px;
+  float: right;
+  margin: 10px;
+  border-radius: 30px;
+}
+
+.blinky{
+  border: solid 3px;
+  border-color: black;
+  border-radius: 10px;
+  width:200px;
+  float: left;
+  color: white;
+  font-family: cursive;
+  background-color: #991212;
+}
